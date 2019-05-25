@@ -1,0 +1,6 @@
+To RUN the code
+1.open "py.bat"
+2.command "python scan.py -i 'image destination'
+Example 1.python scan.py -i page.jpg
+        2.python scan.py -i test_01.png
+PyImageSearch has been of great help to be while implenting this project.
